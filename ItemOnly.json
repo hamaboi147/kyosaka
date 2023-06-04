@@ -2,7 +2,7 @@
     "code": 200,
 	"message": "OK",
     "data": {
-        "playerId": "0",
+        "playerId": "Kyosaka",
         "inventory": [
             {
                 "lastUpdateAt": 1681914953,
