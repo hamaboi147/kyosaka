@@ -2,10 +2,7 @@
   "code": 200,
   "message": "OK",
   "data": {
-    "playerId": "MarketUpdater",
-    "updated": "06/05/2023",
-    "comment": "Market created by MarketUpdater",
-    "developer": "essence#0001",
+    "playerId": "Kyosaka",
     "inventory": [
       {
         "lastUpdatedAt": 1685901751,
