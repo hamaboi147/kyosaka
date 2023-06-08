@@ -3658,6 +3658,16 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "VigosJarOfSaltyLips",
                 "quantity": 2000
+            },            
+ 	    {
+                "lastUpdateAt": 1681914953,
+                "objectId": "AzarovKey",
+                "quantity": 2000
+            },
+ 	    {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BlackSaltStatuette",
+                "quantity": 2000
             },
             {
                 "lastUpdateAt": 1681914953,
@@ -3807,6 +3817,311 @@
             {
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Toolbox_Anniversary2022",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BlackWard",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BogLaurelSachet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BoundEnvelope",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "ClearReagent",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "ColdwindCattleTag81",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "CrescentMoonBouquet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FaintReagent",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FragrantBogLaurel",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FragrantCrispleafAmaranth",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FragrantPrimroseBlossom",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FragrantSweetWilliam",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FreshBogLaurel",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FreshCrispleafAmaranth",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FreshPrimroseBlossom",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FreshSweetWilliam",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FullMoonBouquet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "HazyReagent",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "HeartLocket",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "HollowShell",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "IvoryChalkPouch",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "IvoryMementoMori",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "LunacyTicket",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "MacmillanLedgerPage",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "NewMoonBouquet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "PElliotLunacyTicket",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "PrimroseBlossomSachet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "QuarterMoonBouquet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "ShreddedPlate",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "SignedLedgerPage",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "SweetWilliamSachet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "VigosShroud",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "VirginiaPlate",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "WhiteWard",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "MuddySplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FumingCordage",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "FumingWelcomeSign",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "GranmasCookbook",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BloodyPartyStreamers",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BoneSplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "BlackSplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "DecrepitClapboard",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "HarvestFestivalLeaflet",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "ShockSplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "EmergencyCertificate",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "PsychiatricAssessmentReport",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "PaintedRiverRock",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "ChildrensBook",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "SmokingSplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "GlassSplinter",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Jigsawpiece",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "JapaneseCountrySide",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "HalloweenOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Halloween2021Offering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "IonThemeOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "KenyaThemeOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "RedMoney",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "MeteorThemeOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "SummerOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "WalesThemeOffering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Anniversary2022Offering",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Halloween2022Offering",
                 "quantity": 2000
             }
         ]
