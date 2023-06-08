@@ -3746,7 +3746,7 @@
             },
             {
                 "lastUpdateAt": 1681914953,
-                "objectId": "Item_Camper_Firecracker_Flashbang",
+                "objectId": "Item_Camper_WornoutToolbox",
                 "quantity": 50
             },
             {
@@ -3762,6 +3762,11 @@
             {
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_AnniversaryToolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Firecracker_Flashbang",
                 "quantity": 50
             }		
         ]
