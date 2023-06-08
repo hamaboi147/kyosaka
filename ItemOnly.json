@@ -3663,7 +3663,17 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_AlexsToolbox",
                 "quantity": 2000
-            }
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_BeigeMap",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_BrokenKey",
+                "quantity": 2000
+            }		
         ]
     }
 }
