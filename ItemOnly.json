@@ -3778,11 +3778,6 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Medkit05",
                 "quantity": 50
-            },	
-            {
-                "lastUpdateAt": 1681914953,
-                "objectId": "Item_FragileObject",
-                "quantity": 50
             },			
         ]
     }
