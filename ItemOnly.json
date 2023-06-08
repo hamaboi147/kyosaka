@@ -3758,6 +3758,21 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Flashlight_Anniversary2020",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Medkit_Anniversary2020",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_AnniversaryToolbox",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Firecracker_Flashbang",
+                "quantity": 1000
             }	
         ]
     }
