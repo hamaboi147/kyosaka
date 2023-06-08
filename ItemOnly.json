@@ -3766,9 +3766,24 @@
             },
             {
                 "lastUpdateAt": 1681914953,
-                "objectId": "Item_Camper_ContaminationSerum",
+                "objectId": "Item_Camper_Firecracker_Flashbang",
                 "quantity": 50
-            },		
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight04",
+                "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Medkit05",
+                "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_FragileObject",
+                "quantity": 50
+            },			
         ]
     }
 }
