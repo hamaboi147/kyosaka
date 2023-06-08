@@ -3659,6 +3659,16 @@
                 "objectId": "VigosJarOfSaltyLips",
                 "quantity": 50
             },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_AlexsToolbox",
+                "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_BeigeMap",
+                "quantity": 50
+            },			
         ]
     }
 }
