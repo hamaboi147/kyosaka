@@ -3753,6 +3753,11 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_WornoutToolbox",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight_Anniversary2020",
+                "quantity": 2000
             }	
         ]
     }
