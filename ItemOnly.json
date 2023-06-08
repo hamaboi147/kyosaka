@@ -3668,6 +3668,21 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_BeigeMap",
                 "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_CommodiousToolbox",
+                "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_DullKey",
+                "quantity": 50
+            },	
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_EngineerToolbox",
+                "quantity": 50
             },			
         ]
     }
