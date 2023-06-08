@@ -3693,6 +3693,21 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Firecracker_Chinese",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight02",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight03",
+                "quantity": 2000
             }		
         ]
     }
