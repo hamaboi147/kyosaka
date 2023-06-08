@@ -3683,7 +3683,92 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_EngineerToolbox",
                 "quantity": 50
-            },			
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Firecracker_Chinese",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight02",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight03",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Key",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MechanicsToolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit02",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit03",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit04",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_RainbowMap",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Toolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_WornoutToolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight_Anniversary2020",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Medkit_Anniversary2020",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_AnniversaryToolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_ContaminationSerum",
+                "quantity": 50
+            },		
         ]
     }
 }
