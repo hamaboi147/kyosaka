@@ -3748,6 +3748,11 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Toolbox",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_WornoutToolbox",
+                "quantity": 2000
             }	
         ]
     }
