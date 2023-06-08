@@ -3778,7 +3778,17 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Medkit05",
                 "quantity": 50
-            },			
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_LunarToolbox",
+                "quantity": 50
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Firecracker_Anniversary2019",
+                "quantity": 50
+            }		
         ]
     }
 }
