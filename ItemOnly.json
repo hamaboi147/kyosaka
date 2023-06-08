@@ -3793,6 +3793,21 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Firecracker_WinterEvent",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Flashlight_Anniversary2022",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Medkit_Anniversary2022",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Toolbox_Anniversary2022",
+                "quantity": 2000
             }
         ]
     }
