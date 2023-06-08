@@ -3673,6 +3673,26 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_BrokenKey",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_CommodiousToolbox",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_DullKey",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_EngineerToolbox",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Firecracker_Chinese",
+                "quantity": 2000
             }		
         ]
     }
