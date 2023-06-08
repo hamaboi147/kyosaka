@@ -3723,7 +3723,32 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_MedKit",
                 "quantity": 2000
-            }		
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit02",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit03",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit04",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_RainbowMap",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Toolbox",
+                "quantity": 2000
+            }	
         ]
     }
 }
