@@ -3708,6 +3708,21 @@
                 "lastUpdateAt": 1681914953,
                 "objectId": "Item_Camper_Flashlight03",
                 "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_Key",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MechanicsToolbox",
+                "quantity": 2000
+            },
+            {
+                "lastUpdateAt": 1681914953,
+                "objectId": "Item_Camper_MedKit",
+                "quantity": 2000
             }		
         ]
     }
