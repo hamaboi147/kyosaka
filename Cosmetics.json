@@ -6,6 +6,201 @@
     "inventory": [
       {
         "lastUpdatedAt": 1689573277,
+        "objectId": "Dwight",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Meg",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Claudette",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Jake",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Nea",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Ace",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Bob",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "HillBilly",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Witch",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Ash",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "K22",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S24",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Cannibal",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "K23",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S25",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Laurie",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Shape",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Feng",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Killer07",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Bear",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Smoke",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "K24",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S26",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S27",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Nightmare",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Quentin",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Pig",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Eric",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "K25",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Clown",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Kate",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Spirit",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Adam",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S28",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "K26",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "S29",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Legion",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Jeff",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
         "objectId": "Ace_outfit_001",
         "quantity": 1
       },
@@ -217,6 +412,71 @@
       {
         "lastUpdatedAt": 1689573277,
         "objectId": "Bob_outfit_009",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Bob_outfit_010",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Bob_outfit_007_01",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_001",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_002",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_003",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_004",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_005",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_006",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_007",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_008",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_009",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_010",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1689573277,
+        "objectId": "Chuckles_outfit_008_01",
         "quantity": 1
       }
     ]
