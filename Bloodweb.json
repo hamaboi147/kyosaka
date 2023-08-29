@@ -67,32 +67,32 @@
       {
         "nodeData": [
           {
-            "contentId": "Addon_K30_08",
+            "contentId": "Addon_ReverseBearTrap_LastWill",
             "nodeId": 101,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K30_20",
+            "contentId": "Item_Camper_MedKit04",
             "nodeId": 102,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K26Power_12",
+            "contentId": "Addon_GasBomb_07",
             "nodeId": 103,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Key_003",
+            "contentId": "Addon_Chainsaw_002",
             "nodeId": 104,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Stalker_HairBow",
+            "contentId": "Addon_Hatchet_FlowerBabushka",
             "nodeId": 105,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K31_02",
+            "contentId": "Addon_Ghost_WalleyesMatchbook",
             "nodeId": 106,
             "state": "Available"
           }
@@ -101,62 +101,62 @@
       {
         "nodeData": [
           {
-            "contentId": "BlackSaltStatuette",
+            "contentId": "Addon_GasBomb_10",
             "nodeId": 201,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Blinker_009",
+            "contentId": "Addon_K25Power_09",
             "nodeId": 202,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Kanobo_ScalpedTopknot",
+            "contentId": "ADDON_Bell_AllseeingWhite",
             "nodeId": 203,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_Chainsaw_ThompsonMix",
+            "contentId": "Addon_Blinker_006",
             "nodeId": 204,
             "state": "Available"
           },
           {
-            "contentId": "BlackSaltStatuette",
+            "contentId": "Addon_TheOnryo_15",
             "nodeId": 205,
             "state": "Available"
           },
           {
-            "contentId": "Addon_PhantomTrap_MintRag",
+            "contentId": "Addon_K32_11",
             "nodeId": 206,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Plague_VileEmetic",
+            "contentId": "Addon_Demogorgon_RatLiver",
             "nodeId": 207,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Hatchet_FineStone",
+            "contentId": "Addon_K29_16",
             "nodeId": 208,
             "state": "Available"
           },
           {
-            "contentId": "Addon_PhantomTrap_WaterloggedShoe",
+            "contentId": "Addon_Harpoon_TinOilCan",
             "nodeId": 209,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Map_003",
+            "contentId": "Addon_ReverseBearTrap_TamperedTimer",
             "nodeId": 210,
             "state": "Available"
           },
           {
-            "contentId": "VigosShroud",
+            "contentId": "Addon_Stalker_HairBrush",
             "nodeId": 211,
             "state": "Available"
           },
           {
-            "contentId": "Addon_DreamInducer_PaintThinner",
+            "contentId": "Addon_Hatchet_RustyHead",
             "nodeId": 212,
             "state": "Available"
           }
@@ -165,92 +165,92 @@
       {
         "nodeData": [
           {
-            "contentId": "ADDON_LFChainsaw_DepthGaugeRake",
+            "contentId": "ADDON_LFChainsaw_GrislyChains",
             "nodeId": 301,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_Frenzy_FilthyBlade",
+            "contentId": "Addon_Stalker_ScratchedMirror",
             "nodeId": 302,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K32_02",
+            "contentId": "Addon_PhantomTrap_CypressNecklet",
             "nodeId": 303,
             "state": "Available"
           },
           {
-            "contentId": "Item_Camper_BrokenKey",
+            "contentId": "Addon_Chainsaw_008",
             "nodeId": 304,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Demogorgon_UnknownEgg",
+            "contentId": "Addon_Kanobo_BlackenedToenail",
             "nodeId": 305,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Hatchet_BegrimedHead",
+            "contentId": "Addon_Chainsaw_011",
             "nodeId": 306,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Demogorgon_LifeguardWhistle",
+            "contentId": "Addon_Rush_ChippedMonocle",
             "nodeId": 307,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Harpoon_PrisonChain",
+            "contentId": "Addon_Spark_MoldyElectrode",
             "nodeId": 308,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Rush_PlagueBile",
+            "contentId": "Addon_Ghost_KnifeBeltClip",
             "nodeId": 309,
             "state": "Available"
           },
           {
-            "contentId": "Addon_GasBomb_02",
+            "contentId": "Addon_K30_19",
             "nodeId": 310,
             "state": "Available"
           },
           {
-            "contentId": "Item_Blighted_Serum",
+            "contentId": "ADDON_Frenzy_NastyBlade",
             "nodeId": 311,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K26Power_07",
+            "contentId": "Addon_Demogorgon_RatLiver",
             "nodeId": 312,
             "state": "Available"
           },
           {
-            "contentId": "ADDON_trap_DiamondStone",
+            "contentId": "Addon_K32_18",
             "nodeId": 313,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Demogorgon_BlackHeart",
+            "contentId": "Addon_ReverseBearTrap_VideoTape",
             "nodeId": 314,
             "state": "Available"
           },
           {
-            "contentId": "Addon_K29_11",
+            "contentId": "Addon_Beartrap_011",
             "nodeId": 315,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Chainsaw_011",
+            "contentId": "Addon_K22Power_16",
             "nodeId": 316,
             "state": "Available"
           },
           {
-            "contentId": "DevoutSpottedowlWreath",
+            "contentId": "Addon_Plague_PrayerTabletFragment",
             "nodeId": 317,
             "state": "Available"
           },
           {
-            "contentId": "Addon_Rush_BlightedRat",
+            "contentId": "ADDON_Chainsaw_HomemadeMuffler",
             "nodeId": 318,
             "state": "Available"
           }
@@ -259,7 +259,7 @@
       {
         "nodeData": [
           {
-            "contentId": "Addon_Killer_Halloween2020",
+            "contentId": "Addon_Bell_002",
             "nodeId": 401,
             "state": "Available"
           }
@@ -398,6 +398,14 @@
     },
     {
       "itemId": "Item_Camper_Firecracker_WinterEvent",
+      "quantity": 500
+    },
+    {
+      "itemId": "Item_Camper_K33Turret",
+      "quantity": 500
+    },
+    {
+      "itemId": "Father_Key_Card",
       "quantity": 500
     },
     {
@@ -3161,6 +3169,86 @@
       "quantity": 500
     },
     {
+      "itemId": "Addon_K33_01",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_02",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_03",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_04",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_05",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_06",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_07",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_08",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_09",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_10",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_11",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_12",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_13",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_14",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_15",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_16",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_17",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_18",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_19",
+      "quantity": 500
+    },
+    {
+      "itemId": "Addon_K33_20",
+      "quantity": 500
+    },
+    {
       "itemId": "Addon_Rush_CompoundSeven",
       "quantity": 500
     },
@@ -3686,6 +3774,10 @@
     },
     {
       "itemId": "WalesThemeOffering",
+      "quantity": 500
+    },
+    {
+      "itemId": "WormholeThemeOffering",
       "quantity": 500
     },
     {
@@ -4642,6 +4734,30 @@
     },
     {
       "itemId": "Deathbound",
+      "quantity": 3
+    },
+    {
+      "itemId": "K33P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "K33P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "K33P03",
+      "quantity": 3
+    },
+    {
+      "itemId": "S39P01",
+      "quantity": 3
+    },
+    {
+      "itemId": "S39P02",
+      "quantity": 3
+    },
+    {
+      "itemId": "S39P03",
       "quantity": 3
     },
     {
