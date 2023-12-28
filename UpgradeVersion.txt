@@ -1,0 +1,13 @@
+{
+    "isLatest": false,
+    "latestVersion": 5030,
+    "downloadUrl": "https://storage.cranchpalace.info/shared/file/market/Cursed Market Reborn (5.0.3.0).zip",
+    "communityLinks": {
+        "discord": "bit.ly/3qDJgFn"
+    },
+    "killSwitch": {
+        "platform": [],
+        "checkBox": []
+    },
+    "forcedActions": []
+}
